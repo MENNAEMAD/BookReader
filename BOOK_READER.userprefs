@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EE069114-52D7-4323-86AB-176A2AD2267D}|Default" StartupItem="BOOK_READER\BOOK_READER.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BOOK__READER AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.Material.Light.DialogWhenLarge.NoActionBar" PreferredExecutionTarget="Android.AVD_GalaxyNexus_ToolsForApacheCordova" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BOOK_READER\MainActivity.cs" Line="26" Column="71" />
+      <File FileName="BOOK_READER\Resources\signupActivity.cs" Line="22" Column="43" />
+      <File FileName="BOOK_READER\Resources\homeActivity.cs" Line="22" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
